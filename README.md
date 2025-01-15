@@ -15,7 +15,7 @@ experience:
   - role: Frontend Intern
     company: NTT Data
     duration: Aug 2024 - Present
-project:
+projects:
   - Snake Machine Learning
   - Facial Feature Detection AI
   - ESP32 DNS AdBlocker
