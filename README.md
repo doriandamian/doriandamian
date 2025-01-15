@@ -1,10 +1,13 @@
+# Damian Dorian
+
+```yaml
 name: Damian Dorian
 located_in: Cluj-Napoca
 current_job: Frontend Intern @ NTT Data
 education:
   - degree: Bachelor of Science in Computer Science
-  - university: Technical University of Cluj-Napoca
-  - graduation_year: 2026
+    university: Technical University of Cluj-Napoca
+    graduation_year: 2026
 experience:
   - role: DevOps Intern
     company: NTT Data
