@@ -1,5 +1,3 @@
-# Damian Dorian
-
 ```yaml
 name: Damian Dorian
 located_in: Cluj-Napoca
